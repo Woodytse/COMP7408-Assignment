@@ -6,3 +6,5 @@ There are two different roles, Bankers and Players.
 
 Bankers is responsible to keep the money and will charge a bit amount as commission
 Players are gamblers who want to bet with other
+
+The details refer to assignment brief
