@@ -1,6 +1,6 @@
 pragma solidity ^0.5.16;
 // COMP7408 - Assignment
-// Tse Chun Kit 3035416818
+// Woody Tse
  
  
 contract flipCoin { 
